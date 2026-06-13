@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Smart TV 4K 55\" Pulgadas",
+    "precio": 450000,
+    "descripcion": "Pantalla LED UHD con Google TV, inteligencia artificial y control por voz.",
+    "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=500",
+    "categoria": "Televisores"
+  },
+  {
+    "id": 2,
+    "nombre": "Celular Alta Gama 256GB",
+    "precio": 890000,
+    "descripcion": "Cámara de 108MP, batería de 5000mAh y pantalla fluida de 120Hz.",
+    "imagen": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "categoria": "Celulares"
+  },
+  {
+    "id": 3,
+    "nombre": "Heladera No Frost Inverter",
+    "precio": 1200000,
+    "descripcion": "Eficiencia energética A+++ con freezer superior y dispenser de agua.",
+    "imagen": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=500",
+    "categoria": "Electrohogar"
+  },
+  {
+    "id": 4,
+    "nombre": "Notebook Core i5 16GB RAM",
+    "precio": 750000,
+    "descripcion": "Disco sólido de 512GB SSD. Ideal para multitarea, estudio y trabajo.",
+    "imagen": "https://images.unsplash.com/photo-1496181130204-755241524eab?w=500",
+    "categoria": "Tecnología"
+  }
+]
