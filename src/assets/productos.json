@@ -1,34 +1,46 @@
 [
   {
     "id": 1,
+    "categoria": "Televisores",
     "nombre": "Smart TV 4K 55\" Pulgadas",
+    "marca": "Samsung",
+    "detalles": "Pantalla LED UHD con Google TV, inteligencia artificial y control por voz.",
     "precio": 450000,
-    "descripcion": "Pantalla LED UHD con Google TV, inteligencia artificial y control por voz.",
-    "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=500",
-    "categoria": "Televisores"
+    "stock": 15,
+    "envio": true,
+    "imagen": "https://loremflickr.com/600/400/television,smarttv"
   },
   {
     "id": 2,
+    "categoria": "Celulares",
     "nombre": "Celular Alta Gama 256GB",
+    "marca": "Motorola",
+    "detalles": "Cámara de 108MP, batería de 5000mAh y pantalla fluida de 120Hz.",
     "precio": 890000,
-    "descripcion": "Cámara de 108MP, batería de 5000mAh y pantalla fluida de 120Hz.",
-    "imagen": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
-    "categoria": "Celulares"
+    "stock": 32,
+    "envio": true,
+    "imagen": "https://loremflickr.com/600/400/smartphone,mobile"
   },
   {
     "id": 3,
+    "categoria": "Electrohogar",
     "nombre": "Heladera No Frost Inverter",
+    "marca": "Whirlpool",
+    "detalles": "Eficiencia energética A+++ con freezer superior y dispenser de agua.",
     "precio": 1200000,
-    "descripcion": "Eficiencia energética A+++ con freezer superior y dispenser de agua.",
-    "imagen": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=500",
-    "categoria": "Electrohogar"
+    "stock": 8,
+    "envio": false,
+    "imagen": "https://loremflickr.com/600/400/refrigerator,fridge"
   },
   {
     "id": 4,
+    "categoria": "Tecnología",
     "nombre": "Notebook Core i5 16GB RAM",
+    "marca": "Lenovo",
+    "detalles": "Disco sólido de 512GB SSD. Ideal para multitarea, estudio y trabajo.",
     "precio": 750000,
-    "descripcion": "Disco sólido de 512GB SSD. Ideal para multitarea, estudio y trabajo.",
-    "imagen": "https://images.unsplash.com/photo-1496181130204-755241524eab?w=500",
-    "categoria": "Tecnología"
+    "stock": 20,
+    "envio": true,
+    "imagen": "https://loremflickr.com/600/400/laptop,notebook"
   }
 ]
